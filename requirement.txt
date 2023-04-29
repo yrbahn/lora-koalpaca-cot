@@ -1,0 +1,10 @@
+deepspeed
+scikit-learn
+accelerate
+wandb
+torchmetrics
+argparse
+bitsandbytes
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/peft.git
+sentencepiece
